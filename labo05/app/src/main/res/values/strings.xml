@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">labo05</string>
+    <string name="newmovie">New Movie</string>
+    <string name="name">Name</string>
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+    <string name="calification">Calification</string>
+</resources>
